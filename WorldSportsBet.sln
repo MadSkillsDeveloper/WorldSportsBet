@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorldSportsBetting.Services.API", "WorldSportsBet.Services.API\WorldSportsBetting.Services.API.csproj", "{F6A2D246-24C3-4EFD-99CC-AF28FBE8B392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldSportsBetting.Services.API.Test", "WorldSportsBetting.Services.Test\WorldSportsBetting.Services.API.Test.csproj", "{931314C3-7B4A-4F03-A609-35D38A685BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6A2D246-24C3-4EFD-99CC-AF28FBE8B392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A2D246-24C3-4EFD-99CC-AF28FBE8B392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A2D246-24C3-4EFD-99CC-AF28FBE8B392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A2D246-24C3-4EFD-99CC-AF28FBE8B392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931314C3-7B4A-4F03-A609-35D38A685BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931314C3-7B4A-4F03-A609-35D38A685BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931314C3-7B4A-4F03-A609-35D38A685BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931314C3-7B4A-4F03-A609-35D38A685BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F9433DD-44E5-459B-94C6-BFCA579A9225}
+	EndGlobalSection
+EndGlobal

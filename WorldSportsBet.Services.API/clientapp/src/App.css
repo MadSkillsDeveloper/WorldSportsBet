@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.layout {
+  z-index: 3;
+  position: relative;
+  width: 1200px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.contentBody{
+
+}
